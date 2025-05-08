@@ -4,16 +4,8 @@ A simple and responsive Mother's Day card.
 
 ## Features
 
-- Heartwarming message for Mom
 - Flower animation background (from CodePen)
-- Ripple-effect button that redirects to a surprise page
 - Fully responsive on all devices
-
-## Files
-
-- `index.html` – Main greeting card
-- `start1.css` – Styling and animation
-- `MothersDay.html` – Surprise page after button click
 
 ## Credits
 
